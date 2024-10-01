@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TVRemoteTest {
+class  TVRemoteTest {
 
     TVRemote remote;
 
